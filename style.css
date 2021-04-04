@@ -1,0 +1,39 @@
+body{
+	background-color: white;
+}
+
+#container{
+	background-color: palevioletred;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header{
+	background-color: green;
+	color: white;
+	text-align:center;
+	padding: 10px;
+}
+
+#content{
+	padding: 10px;
+}
+
+#nav{
+	width: 180px;
+	float: left;
+}
+
+#main{
+	width: 600px;
+	float: right;
+}
+
+#footer{
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: right;
+}
